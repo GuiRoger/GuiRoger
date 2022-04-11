@@ -1,4 +1,4 @@
-### Olá eu sou o Guilherme Roger Bergamini , Estágiario em Desenvolvimento Web.
+### Olá eu sou o Guilherme Roger Bergamini , Desenvolvdor Junior C# e JS .
 ##
 <div align-items="center">
   <a href="https://github.com/rafaballerini">
