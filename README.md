@@ -1,4 +1,4 @@
-### Olá eu sou o Guilherme Roger Bergamini , Desenvolvdor Junior C# e JS .
+### Olá eu sou o Guilherme Roger Bergamini , Desenvolvedor Full Stack Pleno .
 ##
 <div align-items="center">
   <a href="https://github.com/GuiRoger">
